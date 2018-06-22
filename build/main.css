@@ -1,0 +1,55 @@
+body {
+   background-color: burlywood;}
+h1{
+ margin: 5px;
+ text-align: center;
+ font-family: Lobster;
+ font-size:42px;
+ color: sienna;
+ font-weight: normal;
+ font-weight: bold;
+}
+h2{
+ text-align: center;
+ font-family: Raleway;
+ font-size:24px;
+ color: slategray;
+ font-weight: 600;
+}
+h3{  font-family: Raleway;
+ font-size: 24px;
+ font-weight: 600;
+}
+p{
+ text-align: justify;
+}
+img{
+  float: right;
+  margin: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: slategray;"
+}
+
+#col-left, #col-right{
+  background-image: url("src/assets/graydots.jpg");
+}
+
+#col-left{
+  float: left;
+}
+
+#col-right{
+  float: right;
+}
+
+#col-center{
+  position: absolute center;
+  border-width: 3px;
+  border-color: slategray;
+}
+
+.references{
+  align-content: center;
+  padding-bottom: 5px;
+}
